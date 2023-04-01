@@ -12,21 +12,13 @@
   
   <img src="https://komarev.com/ghpvc/?username=seiya303&style=flat-square&color=blue" alt=""/>
   
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Japan.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Japan.
 
 - :telescope: I’m working as a Software Engineer and contributing to mainly backend (sometimes frontend too) for building web applications.
 
