@@ -18,11 +18,11 @@
 
 ### :man_technologist: About Me:
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Japan.
+I am a Software and Data Engneer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Japan.
 
-- :telescope: I’m working as a Software Engineer and contributing to mainly backend (sometimes frontend too) for building web applications.
+- :telescope: I’m working as a Software Engineer for the development of web applications while also working as a Data Engineer.
 
-- :satellite: I also have experiences in Machine Learning and Data Engineering fields.
+- :satellite: I also have experiences in Machine Learning fields.
 
 - :seedling: Exploring Technical Content Writing.
 
